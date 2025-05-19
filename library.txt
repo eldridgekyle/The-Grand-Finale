@@ -1,0 +1,52 @@
+The Great Gatsby|8|3
+Moby Dick|10|5
+Pride and Prejudice|6|1
+1984|12|7
+To Kill a Mockingbird|15|6
+War and Peace|5|2
+The Catcher in the Rye|7|3
+The Lord of the Rings|10|3
+The Hobbit|10|4
+Jane Eyre|9|2
+Wuthering Heights|8|3
+Brave New World|11|4
+The Odyssey|6|1
+Crime and Punishment|10|5
+The Brothers Karamazov|7|2
+Fahrenheit 451|8|2
+Frankenstein|9|3
+Dracula|10|4
+Catch-22|6|2
+The Picture of Dorian Gray|8|3
+Anna Karenina|7|2
+The Grapes of Wrath|9|3
+The Sun Also Rises|8|2
+The Old Man and the Sea|6|1
+The Divine Comedy|5|1
+The Canterbury Tales|7|3
+The Trial|6|2
+The Bell Jar|5|1
+Beloved|8|4
+The Secret Garden|9|2
+Little Women|10|3
+Winnie-the-Pooh|6|2
+Alice's Adventures in Wonderland|8|3
+The Wind in the Willows|7|2
+Charlotte's Web|6|1
+Anne of Green Gables|5|2
+The Chronicles of Narnia|12|4
+Harry Potter and the Sorcerer's Stone|15|5
+The Hunger Games|10|4
+Dune|8|2
+The Handmaid's Tale|7|3
+A Tale of Two Cities|9|3
+The Road|7|2
+The Kite Runner|8|4
+The Shining|5|3
+The Fault in Our Stars|10|4
+The Great Alone|6|2
+Educated|9|3
+Sapiens|8|4
+The Goldfinch|10|5
+Becoming|7|3
+Example Book|3|0
